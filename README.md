@@ -1,2 +1,2 @@
 # Light-web
-this Readme.md is made for hacktoberfest participation
+This Readme.md is made for hacktoberfest PRS
